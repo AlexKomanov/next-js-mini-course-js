@@ -15,6 +15,7 @@ const Navbar = () => {
             <h1>Alex Dashboard</h1>
             <Link href="/" >Home</Link>
             <Link href="/tickets">Tickets</Link>
+            <Link href="/tickets/create">Create</Link>
         </nav>
     );
 };
